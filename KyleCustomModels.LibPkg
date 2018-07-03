@@ -75,6 +75,17 @@ DocumentUniqueId=ECVTAXCM
 Path=C:\Users\Public\Documents\Altium\Project Outputs for KyleCustomModels\KyleCustomModels\*.*
 IncludeSubFolders=1
 
+[SearchPath2]
+Path=..\ERL_components\*.*
+IncludeSubFolders=1
+
+[SearchPath3]
+Path=..\..\KyleCustomModels\*.*
+IncludeSubFolders=1
+
+[Generic_IntLibOptions]
+OldFormat=False
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
